@@ -1,6 +1,6 @@
 # ☁️ Cloud Resource Manager & Banker's Algorithm
 
-*An academic project developed for the Operating Systems course in the BS Computer Science (BSCS) program at Mohammad Ali Jinnah University (MAJU).*
+*An academic project developed for the Operating Systems course in the BS Computer Science program.*
 
 ## 📖 Overview
 This repository contains a dual-language implementation of the **Banker's Algorithm**, a core Operating Systems concept used for resource allocation and deadlock avoidance. The project bridges the gap between low-level system understanding and high-level application by simulating cloud infrastructure management.
